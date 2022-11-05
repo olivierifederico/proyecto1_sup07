@@ -54,4 +54,4 @@
 ???
 
 
-![meme](_src\PC180288.jpg)
+![meme](https://raw.githubusercontent.com/olivierifederico/proyecto1_sup07/main/_src/PC180288.jpg)
