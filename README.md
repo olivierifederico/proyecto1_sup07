@@ -55,3 +55,7 @@
 
 
 ![meme](https://raw.githubusercontent.com/olivierifederico/proyecto1_sup07/main/_src/PC180288.jpg)
+
+
+
+ <h3>TA: Benjamin Pastor -  Federico Olivieri</h3>
