@@ -1,5 +1,7 @@
 <h1>Proyecto 01 - SUP07</h1>
 
+![Netflix-Logo](_src\netflix-logo.png)
+
 <h3>Limpieza de datos + Api + Extra</h3>
 
 <h4>Consigna</h4>
@@ -47,3 +49,9 @@
 - Trabajen con GitHub desde el principio
 - Vayan documentando cada parte
 - No hagan trampa
+
+<h2>Hay premio para el que lo complete </h2>
+???
+
+
+![meme](_src\PC180288.jpg)
