@@ -1,6 +1,6 @@
 <h1>Proyecto 01 - SUP07</h1>
 
-![Netflix-Logo](_src\netflix-logo.png)
+![Netflix-Logo](https://raw.githubusercontent.com/olivierifederico/proyecto1_sup07/main/_src/netflix-logo.png)
 
 <h3>Limpieza de datos + Api + Extra</h3>
 
